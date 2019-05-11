@@ -6,7 +6,7 @@ List of a simple activities in C#
 # 2. Escreva um algoritmo em C# que:<br>
 - calcule e escreva todos os termos da série abaixo que forem menores que 500:<br>
 2, 4, 8, 16, 32, 64, 128, . . .<br>
-#3. Escreva um algoritmo em C# para:<br>
+# 3. Escreva um algoritmo em C# para:<br>
 (a) ler um número inteiro positivo n;<br>
 (b) ler o peso, a altura e a idade de n pessoas;<br>
 (c) determinar e escrever:<br>
