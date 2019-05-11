@@ -1,4 +1,4 @@
-# List of activities 3
+# List of activities 3 - 06/06/2019
 List of a simple activities in C#
 
 # 1. Escreva um algoritmo em C# que:<br>
