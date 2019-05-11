@@ -31,7 +31,7 @@ iii. a quantidade de pessoas com altura menor que 1, 70m.<br>
 (b) de 18 a 60 anos: adulto<br>
 (c) acima de 60 anos: terceira idade<br>
 - As idades devem ser lidas até que seja informado um valor negativo. Finalmente, o programa deve escrever a quantidade de pessoas que se enquadram em cada faixa etária.<br>
-#7. A conta bancária de um cliente de um determinado banco possui o valor do saldo final definido pelo valor do saldo inicial e pelo valor dos últimos lançamentos realizados (saques, depósitos, pagamentos de contas, pagamentos de cheques, ...). Faça um programa em C# que:
+# 7. A conta bancária de um cliente de um determinado banco possui o valor do saldo final definido pelo valor do saldo inicial e pelo valor dos últimos lançamentos realizados (saques, depósitos, pagamentos de contas, pagamentos de cheques, ...). Faça um programa em C# que:
 (a) leia o saldo inicial da conta;<br>
 (b) leia um número inteiro positivo n, correspondente à quantidade de lançamentos realizados na conta após o saldo inicial;<br>
 (c) para cada um dos n lançamentos realizados leia seu valor e tipo (débito ou crédito);<br>
